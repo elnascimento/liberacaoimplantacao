@@ -1,1 +1,5 @@
 https://blog.masterofproject.com/release-management-itil/
+https://freshservice.com/itsm/release-management
+https://wiki.en.it-processmaps.com/index.php/Release_and_Deployment_Management#Roles_.7C_Responsibilities
+https://www.bmc.com/blogs/itil-release-deployment-management/
+https://www.tjro.jus.br/mn-stic-estrategia/mn-stic-estrategia-processos/stic-mnu-ger-liberacao-implantacao
